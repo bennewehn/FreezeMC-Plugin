@@ -1,0 +1,11 @@
+name: Freeze
+main: Freeze.Main
+version: 0.0.1
+description: Freeze players.
+api-version: 1.17
+
+commands:
+  freeze:
+    description: Freezes a player.
+  unfreeze:
+    description: Unfreezes a player.
