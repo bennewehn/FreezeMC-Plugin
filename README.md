@@ -1,4 +1,4 @@
-# MineFreeze
+# FreezeMC-Plugin
 Minecraft-Server Freeze Plugin for freezing other palyers.  
 
 Minecraft Version: **1.17**  
